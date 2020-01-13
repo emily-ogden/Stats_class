@@ -5,7 +5,7 @@ date: "January 10, 2020"
 output:
   html_document: default
 ---
-test2
+
 #Part 1
 1.
 ```{r}
