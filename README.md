@@ -1,2 +1,3 @@
 #Homework 1
-All data and code for stats course
+Emily Ogden
+All data and code for homework 1
